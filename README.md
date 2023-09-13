@@ -1,2 +1,2 @@
-print("Kusharga")
+print("Hello")
 print("World")
